@@ -873,25 +873,33 @@ view. <img src="http://cl.ly/C2Lt/Screen%20Shot%202011-11-22%20at%2010
 
       <article>
         <h3>Plugins</h3>
-        <p>WordPress can only include so much functionality in the base package</p>
-        <p>When you need more functionality, plugins come to the rescue!</p>
-        <p>There is a huge community of developers that create plugins that you can install for free.</p>
+        <p>WordPress can only include so much functionality in the base package. When you need more functionality, plugins come to the rescue! There is a huge community of developers that create plugins that you can install for free.</p>
         <p>Can be as small as adding a popup photo gallery to as large as running a social network!</p>
-        <p>Remember to check the plugins WordPress version, if the plugin has been updated within the last 2 years andcheck out the reviews</p>
+        <p>Some things to note when looking for plugins:</p>
+        <ul>
+          <li>does it support your version of WordPress?</li>
+          <li>has it been recently-ish updated (within the last 2 years)</li>
+          <li>check out the reviews</li>
+        </ul>
       </article>
 
       <article>
-        <p>All Plugins live in /wp-content/plugins but we can also interface with them via the dashboard, just like themes!</p>
+        <p>All Plugins live in the <code>/wp-content/plugins</code> folder but we can also access them via the dashboard, just like themes! <strong>Delete</strong> the plugins you don't want and <strong>Activate</strong> the ones that you need.</p>
         <p><img src="assets/images/plugins.png" alt=""></p>
       </article>
 
       <article>
-        <p>You can Delete the plugins you don't want</p>
+       <!--  <p>You can Delete the plugins you don't want</p>
         <p><img src="http://f.cl.ly/items/2r0T472k0I2g3q1H1W08/Screen%20Shot%202011-11-23%20at%2012.20.30%20AM.png" alt=""></p>
-        <p>And Activate the ones you need</p>
-        <p><img src="http://cl.ly/C2Sg/Screen%20Shot%202011-11-23%20at%2012.22.56%20AM.png" alt=""></p>
-        <p>Akismit is 100% required to block spammers, you must sign up for a Free account</p>
-        <p class="small"><a href="https://akismet.com/signup/#free">https://akismet.com/signup/#free</a></p>
+        <p>And Activate the ones you need</p>-->
+        <p><img src="http://cl.ly/C2Sg/Screen%20Shot%202011-11-23%20at%2012.22.56%20AM.png" alt=""></p> 
+        <p>Akismet is 100% required to block spammers. You can sign up for a free account here:
+        <a href="https://akismet.com/signup/#free">https://akismet.com/signup/#free</a></p>
+      </article>
+
+      <article>
+        <p>Go to <strong>Plugins &rarr; Add New</strong>, to install & search for new plugins.</p>
+        <p><img src="assets/images/plugins-add.png" alt=""></p>
       </article>
 
       <article>
@@ -909,32 +917,25 @@ view. <img src="http://cl.ly/C2Lt/Screen%20Shot%202011-11-22%20at%2010
 
       <article>
         <h3>Let's try add a social networking plugin!</h3>
-        <div class="build">
-          <p>Go to plugins &rarr; Add New and search for "addthis"</p>
-          <img src="http://wes.io/MWZP/content">
-          <p>Find the one that is called simply 'AddThis' and click install</p>
-          <img src="http://wes.io/MVt1/content">
-        </div>
-
+        <p>Go to <strong>Plugins &rarr; Add New</strong></p>
+        <p>Search for "Simple Share Buttons Adder" and select the "Install Now" button.</p>
+        <p><img src="assets/images/plugins-social.png"></p>
       </article>
 
       <article>
-        <p>Finally, click Activate Plugin</p>
-        <img src="http://wes.io/MWjl/content">
+        <p>You will automatically be taken to the installation screen.  When complete, activate it.</p>
+        <p><img src="assets/images/plugins-social-install.png"></p>
       </article>
       <article>
-        <p>The plugin will automatically add social buttons to your posts, but let's take a look at a few of the features</p>
-        <img src="http://wes.io/MXGJ/content">
+        <p>Once activated, it can now be accessed from the Settings links in the sidebar or in the plugins section.</p>
+        <p><img src="assets/images/plugins-social-settings.png" alt=""></p>
       </article>
+        
       <article>
-        <p>Some things to note when looking for plugins:</p>
-        <ul>
-          <li>does it support your version of WordPress?</li>
-          <li>has it been recently-ish updated (within the last 2 years)</li>
-          <li>check out the reviews</li>
-        </ul>
+        <p>For this plugin, you can customizing settings such as where on the site to include the share buttons, customizing the share message, which networks to share from and many more options.  Let's check out some of the settings.</p>
+        <p><img src="assets/images/plugins-social-options.png" alt=""></p>
       </article>
-
+      
       <article>
         <h3>Exercise #7: The Final Exercise!</h3>
         <p>This is your time to shine and put everything you have learned today to work.</p>
