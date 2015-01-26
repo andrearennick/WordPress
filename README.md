@@ -1,9 +1,3 @@
-WordPress
-=========
-
-Slides: http://ladieslearningcode.com/Workshops/wordpress/
-
-
 #Ladies Learning Code
 
 ##Wordpress for Beginners
@@ -11,6 +5,8 @@ Slides: http://ladieslearningcode.com/Workshops/wordpress/
 A full day introductory Wordpress workshop.
 
 Created by [Wes Bos](http://twitter.com/wesbos) for Ladies Learning Code.
+
+Slides can be viewed here: http://ladieslearningcode.com/Workshops/wordpress/
 
 **Workshop attendees:** click the "Download zip" button to the right to download the slides and learner files required for the workshop.
 
