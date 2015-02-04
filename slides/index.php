@@ -21,12 +21,12 @@
           WordPress
         </h1>
         <p>
-          <strong>Your Lead Instructor Today: Your Name</strong>
+          <strong>Your Lead Instructors Today: Andrea & Sarah Rennick</strong>
         </p>
           <ul>
-            <li><a href="">youremail@domain.com</li>
-            <li><a href="">your-site.com</a></li>
-            <li><a href="http://twitter.com/">@your-twitter</a></li>
+            <li><a href="mailto:andrea@ronandandrea.com">andrea@ronandandrea.com</a> and <a href="mailto:sarah.rennick@gmail.com">sarah.rennick@gmail.com</a></li>
+            <li><a href="http://andrearennick.com">http://andrearennick.com</a> and <a href="http://sarahrennick.com">http://sarahrennick.com</a></li>
+            <li><a href="http://twitter.com/andrea_r">@andrea_r</a> and <a href="http://twitter.com/fevered">fevered</a></li>
           </ul>
         <p>Open these slides in a modern browser and use your arrow keys to follow along</p>
         <br>
@@ -64,7 +64,7 @@
           <p class='large-font'>An Open Source Content Management System used to power thousands of websites.</p>
           <p class='large-font'>Initially was used to power blogs.</p>
           <p class='large-font'>Powerful enough to run large websites and applications.</p>
-          <p class="large-font">Used by Mashable, CNN, ay-z and many more.</p>
+          <p class="large-font">Used by Mashable, CNN, Jay-z and many more.</p>
         </div>
       </article>
 
