@@ -25,7 +25,7 @@
         </p>
           <ul>
             <li><a href="mailto:andrea@ronandandrea.com">andrea@ronandandrea.com</a> and <a href="mailto:sarah.rennick@gmail.com">sarah.rennick@gmail.com</a></li>
-            <li><a href="http://andrearennick.com">http://andrearennick.com</a> and <a href="http://sarahrennick.com">http://sarahrennick.com</a></li>
+            <li><a href="http://andrearennick.com">http://andrearennick.com</a> and <a href="http://sarahrennick.net">http://sarahrennick.net</a></li>
             <li><a href="http://twitter.com/andrea_r">@andrea_r</a> and <a href="http://twitter.com/fevered">fevered</a></li>
           </ul>
         <p>Open these slides in a modern browser and use your arrow keys to follow along</p>
